@@ -15,17 +15,8 @@
 
 <br/><br/>
 
-<!-- POKÉDEX HERO — Top 10 Gen 1 caminhando (sprites Gen5 BW animados) -->
-<img src="./assets/pokemon/venusaur.gif"  width="96" alt="Venusaur"  />&nbsp;&nbsp;
-<img src="./assets/pokemon/charizard.gif" width="96" alt="Charizard" />&nbsp;&nbsp;
-<img src="./assets/pokemon/blastoise.gif" width="96" alt="Blastoise" />&nbsp;&nbsp;
-<img src="./assets/pokemon/pikachu.gif"   width="96" alt="Pikachu"   />&nbsp;&nbsp;
-<img src="./assets/pokemon/articuno.gif"  width="96" alt="Articuno"  />&nbsp;&nbsp;
-<img src="./assets/pokemon/zapdos.gif"    width="96" alt="Zapdos"    />&nbsp;&nbsp;
-<img src="./assets/pokemon/moltres.gif"   width="96" alt="Moltres"   />&nbsp;&nbsp;
-<img src="./assets/pokemon/dragonite.gif" width="96" alt="Dragonite" />&nbsp;&nbsp;
-<img src="./assets/pokemon/mewtwo.gif"    width="96" alt="Mewtwo"    />&nbsp;&nbsp;
-<img src="./assets/pokemon/mew.gif"       width="96" alt="Mew"       />
+<!-- POKÉDEX HERO — Top 10 Gen1 caminhando/voando (sprites Gen5 BW animados via PokeAPI) -->
+<img src="./assets/pokemon-pokedex.gif" width="100%" alt="Pokédex animada — Top 10 Gen1" />
 
 </div>
 

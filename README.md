@@ -103,6 +103,38 @@
 
 ---
 
+## 🎮 Meu Time
+
+<div align="center">
+
+<sub>Pixel art Gen1-3 · sprites animados originais Game Boy/GBA</sub>
+
+<br/><br/>
+
+<img src="./assets/pokemon/venusaur.gif"  width="72" alt="venusaur"  />
+<img src="./assets/pokemon/charizard.gif" width="72" alt="charizard" />
+<img src="./assets/pokemon/blastoise.gif" width="72" alt="blastoise" />
+<img src="./assets/pokemon/pikachu.gif"   width="72" alt="pikachu"   />
+<img src="./assets/pokemon/dragonite.gif" width="72" alt="dragonite" />
+
+<br/>
+
+<img src="./assets/pokemon/articuno.gif"  width="72" alt="articuno"  />
+<img src="./assets/pokemon/zapdos.gif"    width="72" alt="zapdos"    />
+<img src="./assets/pokemon/moltres.gif"   width="72" alt="moltres"   />
+<img src="./assets/pokemon/mewtwo.gif"    width="72" alt="mewtwo"    />
+<img src="./assets/pokemon/mew.gif"       width="72" alt="mew"       />
+
+<br/>
+
+<img src="./assets/pokemon/lugia.gif"     width="72" alt="lugia"     />
+<img src="./assets/pokemon/groudon.gif"   width="72" alt="groudon"   />
+<img src="./assets/pokemon/rayquaza.gif"  width="72" alt="rayquaza"  />
+
+</div>
+
+---
+
 ## 🤝 Contato
 
 <div align="center">

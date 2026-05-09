@@ -13,6 +13,10 @@
 <img src="https://img.shields.io/github/followers/meresiam?label=FOLLOWERS&style=for-the-badge&color=FF0033&labelColor=0A0A0A" alt="followers" />
 <img src="https://img.shields.io/github/stars/meresiam?label=STARS&style=for-the-badge&color=FF0033&labelColor=0A0A0A" alt="stars" />
 
+<br/><br/>
+
+<img src="./assets/dragon-walking.svg" width="100%" alt="dragão pixelado caminhando" />
+
 </div>
 
 ---

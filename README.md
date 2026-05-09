@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,100:0A0A0A&height=220&section=header&text=meres&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=40&desc=Founder%20%40%20AILA%20Labs&descSize=20&descAlignY=65&descAlign=50" width="100%" alt="header" />
 
 <a href="https://github.com/meresiam">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FF0033&center=true&vCenter=true&width=720&lines=N%C3%A3o+vendo+c%C3%B3digo.+Vendo+clareza.;O+c%C3%B3digo+%C3%A9+consequ%C3%AAncia.;Founder+%40+AILA+Labs;Strategy-first+%E2%80%A2+Pareto+ultra+%E2%80%A2+Build+in+public" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FF0033&center=true&vCenter=true&width=720&lines=Meres+%E2%80%94+Founder+%26+Dev;AILA+Labs+%C2%B7+AI-Driven%2C+AI-First%2C+AI-Native;Onde+IA+encontra+neg%C3%B3cio.;IA+aplicada+a+neg%C3%B3cios+reais." alt="typing" />
 </a>
 
 <br/>
@@ -103,33 +103,17 @@
 
 ---
 
-## 🎮 Meu Time
+## 📸 Instagram · @meresiam
 
 <div align="center">
 
-<sub>Pixel art Gen1-3 · sprites animados originais Game Boy/GBA</sub>
-
-<br/><br/>
-
-<img src="./assets/pokemon/venusaur.gif"  width="72" alt="venusaur"  />
-<img src="./assets/pokemon/charizard.gif" width="72" alt="charizard" />
-<img src="./assets/pokemon/blastoise.gif" width="72" alt="blastoise" />
-<img src="./assets/pokemon/pikachu.gif"   width="72" alt="pikachu"   />
-<img src="./assets/pokemon/dragonite.gif" width="72" alt="dragonite" />
+<a href="https://instagram.com/meresiam">
+  <img src="./assets/instagram-bio.png" width="380" alt="Bio do Instagram @meresiam" />
+</a>
 
 <br/>
 
-<img src="./assets/pokemon/articuno.gif"  width="72" alt="articuno"  />
-<img src="./assets/pokemon/zapdos.gif"    width="72" alt="zapdos"    />
-<img src="./assets/pokemon/moltres.gif"   width="72" alt="moltres"   />
-<img src="./assets/pokemon/mewtwo.gif"    width="72" alt="mewtwo"    />
-<img src="./assets/pokemon/mew.gif"       width="72" alt="mew"       />
-
-<br/>
-
-<img src="./assets/pokemon/lugia.gif"     width="72" alt="lugia"     />
-<img src="./assets/pokemon/groudon.gif"   width="72" alt="groudon"   />
-<img src="./assets/pokemon/rayquaza.gif"  width="72" alt="rayquaza"  />
+<sub><i>Founder and Dev · CEO @aila.labs</i></sub>
 
 </div>
 
@@ -145,6 +129,9 @@
 <a href="https://www.linkedin.com/in/raphaelmeres/">
   <img src="https://img.shields.io/badge/LinkedIn-FF0033?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="linkedin" />
 </a>
+<a href="https://instagram.com/meresiam">
+  <img src="https://img.shields.io/badge/Instagram-FF0033?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A" alt="instagram" />
+</a>
 <a href="https://ailalabs.com">
   <img src="https://img.shields.io/badge/AILA%20Labs-FF0033?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="aila labs" />
 </a>
@@ -157,7 +144,5 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:FF0033&height=120&section=footer" width="100%" alt="footer" />
-
-<sub><i>Não vendo código. Vendo clareza. O código é consequência.</i></sub>
 
 </div>

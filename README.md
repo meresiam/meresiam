@@ -15,7 +15,17 @@
 
 <br/><br/>
 
-<img src="./assets/dragon-walking.svg" width="100%" alt="dragão pixelado caminhando" />
+<!-- POKÉDEX HERO — Top 10 Gen 1 (lendários + iniciais) -->
+<img src="./assets/pokemon/venusaur.png"  width="84" alt="Venusaur"  />
+<img src="./assets/pokemon/charizard.png" width="84" alt="Charizard" />
+<img src="./assets/pokemon/blastoise.png" width="84" alt="Blastoise" />
+<img src="./assets/pokemon/pikachu.png"   width="84" alt="Pikachu"   />
+<img src="./assets/pokemon/articuno.png"  width="84" alt="Articuno"  />
+<img src="./assets/pokemon/zapdos.png"    width="84" alt="Zapdos"    />
+<img src="./assets/pokemon/moltres.png"   width="84" alt="Moltres"   />
+<img src="./assets/pokemon/dragonite.png" width="84" alt="Dragonite" />
+<img src="./assets/pokemon/mewtwo.png"    width="84" alt="Mewtwo"    />
+<img src="./assets/pokemon/mew.png"       width="84" alt="Mew"       />
 
 </div>
 

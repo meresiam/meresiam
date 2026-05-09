@@ -15,17 +15,17 @@
 
 <br/><br/>
 
-<!-- POKÉDEX HERO — Top 10 Gen 1 (lendários + iniciais) -->
-<img src="./assets/pokemon/venusaur.png"  width="84" alt="Venusaur"  />
-<img src="./assets/pokemon/charizard.png" width="84" alt="Charizard" />
-<img src="./assets/pokemon/blastoise.png" width="84" alt="Blastoise" />
-<img src="./assets/pokemon/pikachu.png"   width="84" alt="Pikachu"   />
-<img src="./assets/pokemon/articuno.png"  width="84" alt="Articuno"  />
-<img src="./assets/pokemon/zapdos.png"    width="84" alt="Zapdos"    />
-<img src="./assets/pokemon/moltres.png"   width="84" alt="Moltres"   />
-<img src="./assets/pokemon/dragonite.png" width="84" alt="Dragonite" />
-<img src="./assets/pokemon/mewtwo.png"    width="84" alt="Mewtwo"    />
-<img src="./assets/pokemon/mew.png"       width="84" alt="Mew"       />
+<!-- POKÉDEX HERO — Top 10 Gen 1 caminhando (sprites Gen5 BW animados) -->
+<img src="./assets/pokemon/venusaur.gif"  width="96" alt="Venusaur"  />&nbsp;&nbsp;
+<img src="./assets/pokemon/charizard.gif" width="96" alt="Charizard" />&nbsp;&nbsp;
+<img src="./assets/pokemon/blastoise.gif" width="96" alt="Blastoise" />&nbsp;&nbsp;
+<img src="./assets/pokemon/pikachu.gif"   width="96" alt="Pikachu"   />&nbsp;&nbsp;
+<img src="./assets/pokemon/articuno.gif"  width="96" alt="Articuno"  />&nbsp;&nbsp;
+<img src="./assets/pokemon/zapdos.gif"    width="96" alt="Zapdos"    />&nbsp;&nbsp;
+<img src="./assets/pokemon/moltres.gif"   width="96" alt="Moltres"   />&nbsp;&nbsp;
+<img src="./assets/pokemon/dragonite.gif" width="96" alt="Dragonite" />&nbsp;&nbsp;
+<img src="./assets/pokemon/mewtwo.gif"    width="96" alt="Mewtwo"    />&nbsp;&nbsp;
+<img src="./assets/pokemon/mew.gif"       width="96" alt="Mew"       />
 
 </div>
 
